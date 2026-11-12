@@ -13,6 +13,23 @@ AI platforms.
 
 ---
 
+## Quick Start
+
+New AI session? Start here.
+
+**[START HERE — Universal Session Initialization](session-templates/START-HERE.md)**
+
+Use this template to initialize ChatGPT, Codex,
+OpenCode, or other compatible AI agents.
+
+It instructs the agent to:
+
+- Read repository instructions.
+- Identify relevant skills.
+- Check tool availability.
+- Report dependencies.
+- Follow documented methodologies.
+
 ## Core Objectives
 
 1. Maintain reusable AI skills and instructions.
